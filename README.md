@@ -1,2 +1,6 @@
-# IST4040A-Social-Media-DSS-group-2
-Decision Support System for Social Media Analytics
+# IST 4040A Decision Support Systems Group Project
+##Team Members:
+Askah Mandere
+Ebenezer Adewale Abiola
+Brian Mutua
+Viola Okello
